@@ -1,9 +1,8 @@
 # TripsAndTravel.com-Holiday-Package-Prediction
-Sure! Here’s a concise README file for your project:
 
 TripsAndTravel.com Holiday Package Prediction
 
-Overview
+**Overview**
 
 This project predicts suitable holiday packages using machine learning techniques.
 
